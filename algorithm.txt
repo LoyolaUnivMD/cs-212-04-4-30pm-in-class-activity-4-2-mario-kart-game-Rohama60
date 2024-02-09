@@ -1,1 +1,10 @@
-THINK before you code...
+Create a new Java class called MarioKartPlayer.java
+Define a class MarioKartPlayer with member variables playerName, character, and speed
+Create a constructor to initialize playerName, character, and speed
+Create methods boost() to increase the speed by 20 and displayInfo() to print player information
+Create a new Java class called MarioKartGame.java
+Define a class MarioKartGame with MarioKartPlayer method
+Create instances of MarioKartPlayer class for player1 and player2
+Display the initial player information
+Boost the speed of player1 and player2
+Display the updated player information
